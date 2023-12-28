@@ -20,7 +20,7 @@ class Solution {
         public static void main(String[] args) {
         String str="abcabc";
         String str1="aaacb";
-        String str2="aabbcc";
+       // String str2="aabbcc";
         int ans1=numberOfSubstrings(str);
          int ans2=numberOfSubstrings(str1);
          System.out.println("there are "+ans1+" number of substring that contain abc in"+str);
@@ -29,4 +29,4 @@ class Solution {
 
 
 }
- String str="abcabc";
+
